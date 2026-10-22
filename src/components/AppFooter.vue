@@ -24,7 +24,7 @@ import BrandMark from '@/components/BrandMark.vue';
       <div class="grid gap-3 text-sm text-muted-foreground">
         <p><strong class="text-foreground">Catatan.</strong> Alat ini membantu pemeriksaan awal. Angka hasil penyesuaian otomatis hanyalah saran, bukan data pendataan; konfirmasikan ke responden sebelum mengubah data resmi.</p>
         <p><strong class="text-foreground">Privasi.</strong> Angka dan berkas Excel diproses di browser Anda dan tidak dikirim ke server.</p>
-        <p class="flex items-center gap-2 rounded-xl border border-primary/20 bg-primary/5 p-3 text-foreground"><Code2 class="size-4 shrink-0 text-primary" aria-hidden="true" /> Aplikasi web ini dibuat oleh <strong>Syahrul Halik</strong>.</p>
+        <!--<p class="flex items-center gap-2 rounded-xl border border-primary/20 bg-primary/5 p-3 text-foreground"><Code2 class="size-4 shrink-0 text-primary" aria-hidden="true" /> Aplikasi web ini dibuat oleh <strong>Syahrul Halik</strong>.</p> -->
       </div>
     </div>
     <div class="border-t border-border/70 py-4 text-center text-xs text-muted-foreground">© 2026 BPS Kabupaten Takalar · Kalkulator NTB · Dibuat oleh Syahrul Halik</div>
