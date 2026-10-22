@@ -1,0 +1,8 @@
+{
+  "source": "Kalkulator NTB Sumatera Utara_V.1.1, sheet Kalkulator_NTB, sel C24 (rumus work in progress kategori A)",
+  "commodities": [
+    { "id": "semusim", "label": "Tanaman Semusim", "wipShare": 0.05 },
+    { "id": "tahunan", "label": "Tanaman Tahunan", "wipShare": 0.03 },
+    { "id": "ternak", "label": "Ternak Besar dan Kecil", "wipShare": 0.25 }
+  ]
+}
